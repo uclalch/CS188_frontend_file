@@ -1,0 +1,43 @@
+.Home-intro {
+  /* The image used */
+  position: fixed;
+  top: 0;
+  padding-left: 65px;
+  width: 70%;
+  height: 100%;
+  background-size: cover;
+  background-image: url(./images/int.png);
+  z-index: -1;
+}
+.header {
+  background-color: #474463;
+  height: 55px;
+  color: white;
+  position: relative;
+  overflow: hidden;
+  width: auto;
+}
+.logo {
+  font-size: 35px;
+  margin-left: 45px;
+}
+.auth-menu {
+  left: 1200px;
+  position: fixed;
+  bottom: 673px;
+  color: white !important;
+}
+
+.login-form {
+  left: 430px;
+  position: fixed;
+  width: auto;
+  top: 110px;
+  width: 100%;
+}
+
+.signup-form {
+  padding-left: 330px;
+  padding-top: 50px;
+  width: 70%;
+}
